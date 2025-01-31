@@ -1,0 +1,13 @@
+{
+    "id": "yans-stupid-decks",
+    "name": "Yan's Stupid Decks",
+    "author": ["Nibbles"],
+    "description": "A mod that adds a bunch of stupid decks.",
+    "prefix": "yan",
+    "main_file": "main.lua",
+    "version": "1.0.0",
+    "dependencies": [
+		"Steamodded (>=1.*)",
+        "Lovely (>=0.6)"
+    ]
+}
