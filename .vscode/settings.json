@@ -1,5 +1,10 @@
 {
     "Lua.diagnostics.globals": [
-        "SMODS"
+        "SMODS",
+        "Event",
+        "G"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-global"
     ]
 }
